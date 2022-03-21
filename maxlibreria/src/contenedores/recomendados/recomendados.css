@@ -1,0 +1,14 @@
+.recomendados-seccion {
+    margin-top: 160px;
+    background-color: #FFFADC;
+}
+
+.recomendados-titulo {
+    font-family: var(--fuente-titulos);
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.libros-recomendados {
+
+}

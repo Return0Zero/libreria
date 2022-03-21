@@ -1,0 +1,44 @@
+.titulo-logo {
+    font-family: var(--fuente-titulos);
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.navbar-seccion {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.contenedor-usuario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contenedor--icono-usuario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.icono-usuario {
+    margin-right: 5px;
+    width: 40px;
+}
+
+.icono-carro {
+    margin-right: 5px;
+    width: 40px;
+}
+
+.contenedor--icono-carrito {
+    display: flex;
+    margin-left: 10%;
+}

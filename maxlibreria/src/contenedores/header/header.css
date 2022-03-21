@@ -1,0 +1,43 @@
+.header-seccion {
+    position: relative;
+    height: 100%;
+
+}
+
+.imagen-fondo {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    left: 0;
+}
+
+.header--titulo {
+    width: 40%;
+    color: white;
+    font-size: 2rem;
+    padding-top: 10%;
+    padding-left: 5%;
+}
+
+.CTA--contenedor {
+    display: flex;
+    color: white;
+    padding-left: 11%;
+    padding-top: 2%;
+}
+
+.CTA--coleccion {
+    margin-right: 2%;
+    background-color: #BA8254;
+    padding: 5px 15px 5px 15px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.CTA--contactanos {
+    background-color: #BA8254;
+    padding: 5px 15px 5px 15px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
