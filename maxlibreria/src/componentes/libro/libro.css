@@ -1,0 +1,27 @@
+.Libro-seccion {
+    background-color: white;
+    width: 200px;
+    height: 370px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px gray;
+    padding-top: 20px;
+}
+
+.foto-portada {
+    width: 160px;
+}
+
+.libro--contenedor-botones {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.boton-carrito {
+    width: 40px;
+}
+
+.boton-favorito {
+    width: 40px;
+
+}

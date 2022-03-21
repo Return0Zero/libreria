@@ -4,7 +4,7 @@ import './coleccion.css';
 const Coleccion = () => {
     return (
         <div className='header-section'>
-            <h1>coleccion</h1>
+            <h1 className='coleccion-titulo'>NUESTRA COLECCIÓN</h1>
         </div>
     )
 }

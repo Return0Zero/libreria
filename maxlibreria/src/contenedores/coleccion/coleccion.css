@@ -1,0 +1,6 @@
+.coleccion-titulo {
+    font-family: var(--fuente-titulos);
+    padding-top: 3%;
+    padding-bottom: 5%;
+    font-weight: 500;
+}
