@@ -1,0 +1,49 @@
+.maxlibreria-section {
+    position: relative;
+    margin-top: 5%;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.footerDeco {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: -9;
+}
+
+.titulo-maxlibreria {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: var(--fuente-titulos);
+    font-weight: 500;
+}
+
+.maxilibreria--contenido {
+    margin-bottom: 5%;
+    font-size: 1.5rem;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contenedor-contacto {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+.llamada, .email {
+    display: flex;
+}
+
+.llamada-icono, .email-icono {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.maxlibreria--info {
+    font-size: 0.8rem;
+    color: #616161;
+}
