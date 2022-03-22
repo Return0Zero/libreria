@@ -1,0 +1,48 @@
+.seccion-inputBusqueda {
+    display: flex;
+    justify-content: right;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+.inputBusqueda {
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #EAEAEA;
+    padding-left: 10px;
+    border-radius: 50px 0px 0px 50px;
+}
+
+.icono-busqueda {
+    height: 40px;
+    padding: 10px;
+    background-color: #EAEAEA;
+    border-radius: 0px 50px 50px 0px;
+}
+
+.resultadoData {
+    margin-top: 5px;
+    width: 300px;
+    height: 200px;
+    background-color: #EAEAEA;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.dataLibros {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+
+.dataLibros:hover {
+    background-color: white;
+}
+
+.dataLibros p {
+    margin-left: 10px;
+}

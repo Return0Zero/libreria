@@ -19,9 +19,11 @@
 
 .boton-carrito {
     width: 40px;
+    cursor: pointer;
 }
 
 .boton-favorito {
     width: 40px;
+    cursor: pointer;
 
 }
