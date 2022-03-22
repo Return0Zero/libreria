@@ -17,7 +17,7 @@
 .lineaDecorativa {
     width: 60%;
     margin-left: 3%;
-    animation: desplazamiento 5s linear 1s infinite running;
+    animation: desplazamiento 5s linear 1s  running;
 }
 
 @keyframes desplazamiento {
