@@ -7,7 +7,7 @@ import Libro from '../../componentes/libro/libro'
 
 const Coleccion = () => {
     return (
-        <div className='header-section'>
+        <div id='idColeccion' className='header-section'>
             <h1 className='coleccion-titulo'>NUESTRA COLECCIÓN</h1>
             <BarraBusqueda placeholder="Titulo, Autor, Género y más" /* ----- data={DataLibros} ----- */ ></BarraBusqueda>
             <div className='generosLibros'>

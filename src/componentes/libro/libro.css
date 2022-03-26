@@ -1,4 +1,4 @@
-.Libro-seccion {
+.componente-libro {
     background-color: white;
     width: 200px;
     height: 370px;
@@ -22,8 +22,16 @@
     cursor: pointer;
 }
 
+.boton-carrito:active {
+    transform: scale(0.9);
+}
+
 .boton-favorito {
     width: 40px;
     cursor: pointer;
 
+}
+
+.boton-favorito:active {
+    transform: scale(0.9);
 }

@@ -6,7 +6,7 @@ import Email from '../../imagenes/iconos/email.png'
 
 const Maxlibreria = () => {
     return (
-        <div className='maxlibreria-section'>
+        <div id='idContactanos' className='maxlibreria-section'>
             <img src={FooterDeco} alt="Decoracion del footer" className='footerDeco' />
             <div>
                 <h1 className='titulo-maxlibreria'>QUIÉNES SOMOS</h1>
