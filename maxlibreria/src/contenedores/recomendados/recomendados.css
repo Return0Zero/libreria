@@ -1,17 +1,49 @@
 .recomendados-seccion {
-    margin-top: 160px;
-    background-color: #FFFADC;
-    padding-bottom: 5%;
+	margin-top: 160px;
+	background-color: #fffadc;
+	padding-bottom: 5%;
 }
 
 .recomendados-titulo {
-    font-family: var(--fuente-titulos);
-    padding-top: 3%;
-    padding-bottom: 5%;
-    font-weight: 500;
+	font-family: var(--fuente-titulos);
+	padding-top: 3%;
+	padding-bottom: 5%;
+	font-weight: 500;
 }
 
 .libros-recomendados {
-    display: flex;
-    justify-content: space-around;
+	display: flex;
+	justify-content: space-around;
+}
+
+@media (max-width: 1000px) {
+	.libros-recomendados {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+@media (max-width: 1400px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+@media (max-width: 1000px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+@media (max-width: 700px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+
+@media (max-width: 500px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
 }

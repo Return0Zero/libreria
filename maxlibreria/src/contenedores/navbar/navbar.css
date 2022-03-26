@@ -42,3 +42,52 @@
     display: flex;
     margin-left: 10%;
 }
+
+@media (max-width: 1400px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+@media (max-width: 1200px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+    .contenedor--icono-usuario p {
+
+        display: none;
+         
+     }
+}
+@media (max-width: 1000px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+    .contenedor--icono-usuario p {
+
+        display: none;
+         
+     }
+}
+@media (max-width: 700px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+        flex-wrap: wrap;
+	}
+}
+@media (max-width: 500px) {
+	.titulo-logo{
+        font-size: 1.4rem;
+    }
+
+    .icono-usuario{
+        width: 30px;
+    }
+
+    .icono-carro{
+        width: 30px;
+    }
+}
+  
