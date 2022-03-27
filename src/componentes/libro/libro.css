@@ -1,3 +1,4 @@
+
 .libro-seccion {
 	background-color: white;
 	width: 200px;
@@ -5,6 +6,14 @@
 	border-radius: 20px;
 	box-shadow: 10px 10px 25px gray;
 	padding-top: 20px;
+}
+.componente-libro {
+    background-color: white;
+    width: 200px;
+    height: 370px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px gray;
+    padding-top: 20px;
 }
 
 .foto-portada {
@@ -22,14 +31,22 @@
 	cursor: pointer;
 }
 
+.boton-carrito:active {
+    transform: scale(0.9);
+}
+
 .boton-favorito {
 	width: 40px;
 	cursor: pointer;
 }
 
 @media (max-width: 1000px){
-
     .libro-seccion {
 		margin-bottom: 10%;
 	}
+
+}
+
+.boton-favorito:active {
+    transform: scale(0.9);
 }

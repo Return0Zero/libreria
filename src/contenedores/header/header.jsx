@@ -11,12 +11,12 @@ const Header = () => {
             <p className='header--titulo'>¡Libros! Los libros son el regalo más grande que una persona puede dar a otra.
             </p>
             <div className='CTA--contenedor'>
-                <div className='CTA--coleccion'>
+                <a href='/#idColeccion' className='CTA--coleccion'>
                     <p>Ver Colección</p>
-                </div>
-                <div className='CTA--contactanos'>
+                </a>
+                <a href='/#idContactanos' className='CTA--contactanos'>
                     <p>Contactanos</p>
-                </div>
+                </a>
             </div>
            
         </div>

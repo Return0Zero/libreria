@@ -1,0 +1,121 @@
+.titulo-logo {
+	font-family: var(--fuente-titulos);
+	font-weight: 500;
+	font-size: 2rem;
+}
+
+
+.link--titulo-logo:visited {
+    text-decoration: none;
+    color: black;
+  }
+
+.navbar-seccion {
+<<<<<<<< HEAD:src/contenedores/navbar/navbar.css
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    max-width: 1600px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    z-index: 9;
+========
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+>>>>>>>> c8b4c0598a0a5e3bd3263cc8ec4eab9c52ee730f:maxlibreria/src/contenedores/navbar/navbar.css
+}
+
+.contenedor-usuario {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.contenedor--icono-usuario {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.icono-usuario {
+<<<<<<<< HEAD:src/contenedores/navbar/navbar.css
+    margin-left: 5px;
+    width: 40px;
+}
+
+.icono-carro {
+    margin-right: 5px;
+    width: 40px;
+    margin-left: 40px;
+}
+
+.icono-carro:active {
+    transform: scale(0.9);
+========
+	margin-right: 5px;
+	width: 40px;
+}
+
+.icono-carro {
+	margin-right: 5px;
+	width: 40px;
+}
+
+.contenedor--icono-carrito {
+	display: flex;
+	margin-left: 10%;
+}
+
+@media (max-width: 1400px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+@media (max-width: 1200px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.contenedor--icono-usuario p {
+		display: none;
+	}
+}
+@media (max-width: 1000px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.contenedor--icono-usuario p {
+		display: none;
+	}
+}
+@media (max-width: 700px) {
+	.coleccion--libro-contenedor {
+		display: flex;
+		flex-wrap: wrap;
+	}
+}
+@media (max-width: 500px) {
+	.titulo-logo {
+		font-size: 1.4rem;
+	}
+
+	.icono-usuario {
+		width: 30px;
+	}
+
+	.icono-carro {
+		width: 30px;
+	}
+>>>>>>>> c8b4c0598a0a5e3bd3263cc8ec4eab9c52ee730f:maxlibreria/src/contenedores/navbar/navbar.css
+}
