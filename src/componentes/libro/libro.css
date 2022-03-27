@@ -40,6 +40,10 @@
 	cursor: pointer;
 }
 
+.boton-favorito:active {
+    transform: scale(0.9);
+}
+
 @media (max-width: 1000px){
     .libro-seccion {
 		margin-bottom: 10%;
@@ -47,6 +51,3 @@
 
 }
 
-.boton-favorito:active {
-    transform: scale(0.9);
-}

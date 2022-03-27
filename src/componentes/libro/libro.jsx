@@ -14,7 +14,8 @@ const Libro = () => {
                 <img src={AgregarCarrito} alt='Agregar Carrito' className='boton-carrito'/>
                 <img src={AgregarFavorito} alt='Agregar Favorito' className='boton-favorito'/>
             </div>
-        </div>
+            </div>
+            </div>
     )
 }
 
