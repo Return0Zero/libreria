@@ -11,7 +11,6 @@
   }
 
 .navbar-seccion {
-<<<<<<<< HEAD:src/contenedores/navbar/navbar.css
     position: fixed;
     background-color: white;
     width: 100%;
@@ -23,7 +22,6 @@
     padding-top: 1%;
     padding-bottom: 1%;
     z-index: 9;
-========
 	position: relative;
 	display: flex;
 	justify-content: space-between;
@@ -31,7 +29,6 @@
 	padding-right: 5%;
 	padding-top: 1%;
 	padding-bottom: 1%;
->>>>>>>> c8b4c0598a0a5e3bd3263cc8ec4eab9c52ee730f:maxlibreria/src/contenedores/navbar/navbar.css
 }
 
 .contenedor-usuario {
@@ -47,7 +44,6 @@
 }
 
 .icono-usuario {
-<<<<<<<< HEAD:src/contenedores/navbar/navbar.css
     margin-left: 5px;
     width: 40px;
 }
@@ -60,7 +56,6 @@
 
 .icono-carro:active {
     transform: scale(0.9);
-========
 	margin-right: 5px;
 	width: 40px;
 }
@@ -117,5 +112,4 @@
 	.icono-carro {
 		width: 30px;
 	}
->>>>>>>> c8b4c0598a0a5e3bd3263cc8ec4eab9c52ee730f:maxlibreria/src/contenedores/navbar/navbar.css
 }

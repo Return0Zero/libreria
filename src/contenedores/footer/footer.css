@@ -1,79 +1,70 @@
 .footer-seccion {
-    background-color: #3A2616;
-    text-align: left;
-    padding-left: 5%;
-    height: 40px;
-    line-height: 40px;
-
+	background-color: #3a2616;
+	text-align: left;
+	padding-left: 5%;
+	height: 40px;
+	line-height: 40px;
 }
 
 .footer-seccion p {
-    color: white;
-    font-size: 1.2rem;
+	color: white;
+	font-size: 1.2rem;
 }
-
 
 @media (max-width: 1400px) {
 	.coleccion--libro-contenedor {
 		display: flex;
-        flex-wrap: wrap;
+		flex-wrap: wrap;
 	}
 }
 @media (max-width: 1200px) {
 	.coleccion--libro-contenedor {
 		display: flex;
-        flex-wrap: wrap;
+		flex-wrap: wrap;
 	}
-    .contenedor--icono-usuario p {
-
-        display: none;
-         
-     }
+	.contenedor--icono-usuario p {
+		display: none;
+	}
 }
 @media (max-width: 1000px) {
 	.imagen-fondo {
-        display: none;
+		display: none;
+	}
 
-
-    }
-    
-    .imagen-fondo-movil {
-      display: inline;
-    }
+	.imagen-fondo-movil {
+		display: inline;
+	}
 }
 @media (max-width: 700px) {
-    
-    .imagen-fondo {
-        display: none;
+	.imagen-fondo {
+		display: none;
+	}
 
+	.imagen-fondo-movil {
+		display: inline;
+	}
 
-    }
-    
-    .imagen-fondo-movil {
-      display: inline;
-    }
-
-    .header--titulo {
-        width: 100%;
-        color: white;
-        font-size: 2rem;
-        padding-top: 10%;
-        padding-left: 5%;
-        padding-right: 5%;
-        margin-left: 5%;
-        margin-right: 5%;
-    }
+	.header--titulo {
+		width: 100%;
+		color: white;
+		font-size: 2rem;
+		padding-top: 10%;
+		padding-left: 5%;
+		padding-right: 5%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
 }
 @media (max-width: 500px) {
-	.titulo-logo{
-        font-size: 1.4rem;
-    }
+	.titulo-logo {
+		font-size: 1.4rem;
+	}
 
-    .icono-usuario{
-        width: 30px;
-    }
+	.icono-usuario {
+		width: 30px;
+	}
 
-    .icono-carro{
-        width: 30px;
-    }
+	.icono-carro {
+		width: 30px;
+	}
 }
