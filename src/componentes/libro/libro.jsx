@@ -6,7 +6,6 @@ import AgregarFavorito from '../../imagenes/iconos/boton-favorito.png'
 
 const Libro = () => {
     return (
-        <div className='libro-seccion'>
         <div className='componente-libro'>
             <img src={Portada1} alt='Foto de portada' className='foto-portada'/>
             <p>Don Quijote de la mancha</p>
@@ -14,8 +13,7 @@ const Libro = () => {
                 <img src={AgregarCarrito} alt='Agregar Carrito' className='boton-carrito'/>
                 <img src={AgregarFavorito} alt='Agregar Favorito' className='boton-favorito'/>
             </div>
-            </div>
-            </div>
+        </div>
     )
 }
 

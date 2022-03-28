@@ -1,12 +1,4 @@
 
-.libro-seccion {
-	background-color: white;
-	width: 200px;
-	height: 370px;
-	border-radius: 20px;
-	box-shadow: 10px 10px 25px gray;
-	padding-top: 20px;
-}
 .componente-libro {
     background-color: white;
     width: 200px;
