@@ -47,3 +47,36 @@
     font-size: 0.8rem;
     color: #616161;
 }
+
+
+@media (max-width: 1400px) {
+	
+
+}
+@media (max-width: 1200px) {
+    .maxilibreria--contenido {
+        font-size: 20px;
+    }
+}
+@media (max-width: 1000px) {
+
+    .maxilibreria--contenido {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 700px) {
+
+    .maxilibreria--contenido {
+        font-size: 16px;
+    }
+
+}
+@media (max-width: 500px) {
+
+    .maxilibreria--contenido {
+        font-size: 14px;
+    }
+
+
+}

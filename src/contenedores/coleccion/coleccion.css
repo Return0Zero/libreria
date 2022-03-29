@@ -3,6 +3,8 @@
     padding-top: 3%;
     padding-bottom: 2%;
     font-weight: 500;
+    padding-right: 50%;
+    font-size: 30px;
 }
 
 .genero-titulo {
@@ -55,12 +57,17 @@
 		display: flex;
         flex-wrap: wrap;
 	}
+  
 }
 @media (max-width: 700px) {
 	.coleccion--libro-contenedor {
 		display: flex;
         flex-wrap: wrap;
 	}
+    .coleccion-titulo {
+       font-size: 30px;
+    }
+    
 }
 
 @media (max-width: 500px) {
