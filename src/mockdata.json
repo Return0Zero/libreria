@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellidos": "Hernandez",
+        "genero": "Masculino",
+        "fechaDeNacimiento": "25/11/1985",
+        "generoLiterario": "Didactico"
+    },
+
+    {
+        "id": 2,
+        "nombre": "Roberto",
+        "apellidos": "Hernandez",
+        "genero": "Masculino",
+        "fechaDeNacimiento": "25/11/1985",
+        "generoLiterario": "Didactico"
+    }
+]

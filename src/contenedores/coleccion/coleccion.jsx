@@ -17,7 +17,6 @@ const Coleccion = () => {
                         <img src={Linea} alt="Linea Decorativa" className='lineaDecorativa' />
                     </div>
                     <div className='coleccion--libro-contenedor'>
-
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
