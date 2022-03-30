@@ -17,10 +17,11 @@ const Coleccion = () => {
                         <img src={Linea} alt="Linea Decorativa" className='lineaDecorativa' />
                     </div>
                     <div className='coleccion--libro-contenedor'>
-                        <Libro></Libro>
-                        <Libro></Libro>
-                        <Libro></Libro>
-                        <Libro></Libro>
+
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                     </div>
                 </div>
                 <div className='generoDramatico'>
@@ -29,10 +30,11 @@ const Coleccion = () => {
                         <img src={Linea} alt="Linea Decorativa" className='lineaDecorativa' />
                     </div>
                     <div className='coleccion--libro-contenedor'>
-                        <Libro></Libro>
-                        <Libro></Libro>
-                        <Libro></Libro>
-                        <Libro></Libro>
+
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                     </div>
 
                 </div>

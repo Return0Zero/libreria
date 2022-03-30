@@ -1,6 +1,7 @@
 
 import './carrito.css';
 import Navbar from './contenedores/navbar/navbar';
+import Footer from './contenedores/footer/footer';
 import Compras from './componentes/compras/compras';
 import DatosPersonales from './componentes/datospersonales/datospersonales';
 import Total from './componentes/total/total';
@@ -15,7 +16,8 @@ function Carrito() {
         <DatosPersonales></DatosPersonales>
         <Total></Total>
       </div>
-      <h1>esta es la prueba del separado</h1>
+      <Footer></Footer>
+      
     </div>
   );
 }

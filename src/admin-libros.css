@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.carritoApp {
+  text-align: center;
+  font-family: var(--fuente-primario);
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
