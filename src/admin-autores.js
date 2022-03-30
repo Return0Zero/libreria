@@ -10,7 +10,7 @@ function AdminAutores() {
   return (
     <div className="admin-autores">
         <AdminNavbar></AdminNavbar>
-        <div  className="adminCuerpo">
+        <div  className="admin--autores-Cuerpo">
           <AdminCategorias></AdminCategorias>
           <div>
             <div>

@@ -12,10 +12,8 @@ function Admin() {
   
   return (
     <div className="adminApp">
-      
+      <AdminNavbar></AdminNavbar>
       <div className="adminCuerpo">
-        <AdminNavbar></AdminNavbar>
-        <div>
           <h1>¿Qué deseas agregar?</h1>
           <div>
               <Link to="/admin-libros" className=''>Libros</Link>
@@ -23,7 +21,6 @@ function Admin() {
               <Link to="/admin-autores" className=''>Autores</Link>
               <Link to="/admin-generos" className=''>Generos</Link>
           </div>
-        </div>
           
       </div>
       

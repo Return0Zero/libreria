@@ -9,9 +9,7 @@ const Navbar = () => {
         <div className='navbar-seccion'>
             <Link to="/" className='link--titulo-logo'><h1 className='titulo-logo'>MAX LIBRERIA</h1></Link>
             <div className='contenedor-usuario'>
-                <div className='contenedor--icono-usuario'>
-                    <img src={Usuario} alt='usuario' className='icono-usuario' />
-                </div>
+                <Link to="/admin"><img src={Usuario} alt='usuario' className='icono-usuario'/></Link>
                 <Link to="/carrito"><img src={CarritoIcono} alt='carrito de compras' className='icono-carro'/></Link>
             </div>
             
