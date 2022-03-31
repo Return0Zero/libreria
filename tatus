@@ -1,0 +1,209 @@
+[33mcommit 888829cfd082b2c9457116392139f9b12d0342b0[m[33m ([m[1;36mHEAD -> [m[1;32mkevin[m[33m, [m[1;31morigin/kevin[m[33m)[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Thu Mar 31 14:21:17 2022 -0700
+
+    Carrito1.0
+
+[33mcommit 696df588fba3f5ffa556507d2646907fc8257127[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Thu Mar 31 13:19:51 2022 -0700
+
+    Trabajo real carrito Keivn
+
+[33mcommit 04bb5b2b78e9ccbaf24988431c50d0187f90bc83[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Wed Mar 30 21:30:54 2022 -0600
+
+    lala
+
+[33mcommit da3503c007c30348fcaa295bc02313dd6970a94a[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Wed Mar 30 19:21:57 2022 -0600
+
+    Nuevo
+
+[33mcommit 6f5c92d1339f172525a4bd081b7f0a3467c2c80f[m
+Merge: 59ed2f1e 4a58d58d
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Wed Mar 30 19:10:47 2022 -0600
+
+    Merge branch 'kevin' of https://github.com/Return0Zero/libreria into kevin
+
+[33mcommit 59ed2f1ec5e943f842b390fc4ec908dbafbc17de[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Wed Mar 30 19:06:00 2022 -0600
+
+    Carrito sigui en el trabajo
+
+[33mcommit 4a58d58de1ccc104bc0b8c91925e787024f019dd[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Wed Mar 30 13:29:56 2022 -0700
+
+    Intento de carrito
+
+[33mcommit 4cd8165712dfae9015f138bfd9c4a757f37fe9fa[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 20:44:55 2022 -0600
+
+    Cambios del carrito primero
+
+[33mcommit 1fb8dc4ba6a2c8eb3458c9228276df045f06ae1d[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 17:33:57 2022 -0600
+
+    Eliminacion de carpeta carrito erronea
+
+[33mcommit c49f2eb2b1ec0e6bd9953efde0fe42bf0eb2cea5[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 17:02:30 2022 -0600
+
+    Ultimo carrito
+
+[33mcommit 23ceb3dd56ef5941836dafe118b40568d2cb6ce9[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 13:07:03 2022 -0700
+
+    Eliminacion de contenedor carrito
+
+[33mcommit da232e263031d1ce8b031b6101acf36ebc12674a[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 12:53:12 2022 -0700
+
+    Commit de prueba
+
+[33mcommit 6fb9ad49afd057d8a6492213f7a7d2c2417b988b[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 09:31:59 2022 -0700
+
+    Carrito 3 Comando
+
+[33mcommit 8e363f89b58ee6e874481beefd7fc4943acbd402[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 09:10:36 2022 -0700
+
+    Carrito2
+
+[33mcommit 7b192380a050fd5feaf35d640fc45e4c3bbb53b3[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 08:29:23 2022 -0700
+
+    Update coleccion.css
+
+[33mcommit 926ce4a4f4c28dc30b7d1eb2f7f8c07914336495[m
+Author: kevcaleb <kevcaleb1@gmail.com>
+Date:   Tue Mar 29 08:27:13 2022 -0700
+
+    Agregar Carrito a contenedores prueba
+    
+    Carritos Agregados
+
+[33mcommit 34ca0fc448e3fb608291ee4f76ebcea2a238f400[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Tue Mar 29 01:07:04 2022 -0600
+
+    Detalles
+
+[33mcommit 3513601c7d8724bbd4dc28623f50e16a5497b3f1[m
+Merge: 07760612 cae1421b
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Sun Mar 27 22:57:06 2022 -0600
+
+    Merge branch 'main' of https://github.com/Return0Zero/libreria
+
+[33mcommit 07760612aa629a47c7ac275159c981133607879f[m
+Author: kevcaleb1 <kevcaleb1@gmail.com>
+Date:   Sun Mar 27 22:56:37 2022 -0600
+
+    Update header.css
+
+[33mcommit cae1421bd48636ba6cd7b86a58f2d76bfcc471a3[m
+Merge: f50bb544 930232db
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 28 00:56:19 2022 -0400
+
+    Merge branch 'main' of https://github.com/Return0Zero/libreria
+
+[33mcommit f50bb54434940981d3e42b0437b254e988745e96[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 28 00:56:15 2022 -0400
+
+    cambio en libro
+
+[33mcommit 930232dbc0c9e4dad5132479db2d7a91fc9c2f95[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sun Mar 27 08:44:26 2022 -0600
+
+    INIT DROP DOWN MENU
+
+[33mcommit 6fff9cf5b3dfdba7078dd66f8a1dcd6e7ab01947[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sat Mar 26 22:15:29 2022 -0600
+
+    Arreglo DIV
+
+[33mcommit 4fdb715b59a1ab66bfe291fcc49dd81d683cb26f[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sat Mar 26 21:49:32 2022 -0600
+
+    CSS Update
+
+[33mcommit 20bce8919f041f6249b9a28d03771d751247f09b[m
+Merge: f9ca78b2 c8b4c059
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sat Mar 26 21:42:58 2022 -0600
+
+    Merge branch 'main' of https://github.com/Return0Zero/libreria
+
+[33mcommit f9ca78b2f9d534f98ffca23ce6f8fc06184a33ed[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sat Mar 26 21:03:54 2022 -0600
+
+    CSS Exp
+
+[33mcommit 288804299bcce286916a629c7932a65132c96968[m
+Author: Leopoldo José Cálix Parada <leopoldoj.calix@gmail.com>
+Date:   Sat Mar 26 09:43:25 2022 -0600
+
+    Responsive matter
+
+[33mcommit c8b4c0598a0a5e3bd3263cc8ec4eab9c52ee730f[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Sat Mar 26 06:53:39 2022 -0400
+
+    cart
+
+[33mcommit 87c03b0fb1eb63c8bd82fcb81445c36a1624159b[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Tue Mar 22 05:32:25 2022 -0400
+
+    footer
+
+[33mcommit 78aaa18c2798d4b6abc0468787a86d4c1f410a73[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 21 22:13:33 2022 -0400
+
+    Update coleccion.css
+
+[33mcommit 227868d8118184dd0b14993d8cdcecb464920b6c[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 21 22:02:30 2022 -0400
+
+    generos
+
+[33mcommit 8d37bf7cc534161f82f051c2360867e2d4efbafd[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 21 09:53:22 2022 -0400
+
+    .
+
+[33mcommit ba29158f7ba2eb381698da5147791d720342627a[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 21 07:21:16 2022 -0400
+
+    navbar & header
+
+[33mcommit 744e144ecf533d4173c35c17058b95aeaf50b7b7[m
+Author: Return0Zero <69299788+Return0Zero@users.noreply.github.com>
+Date:   Mon Mar 21 03:30:46 2022 -0400
+
+    Initial commit
