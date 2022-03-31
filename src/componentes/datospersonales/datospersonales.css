@@ -1,0 +1,9 @@
+.coleccion-letras {
+    font-family: var(--fuente-titulos);
+    padding-top: 2%;
+    padding-bottom: 140%;
+    font-weight: 500;
+    padding-right: 1%;
+    padding-left: 90%;
+    font-size: 50px;
+}
