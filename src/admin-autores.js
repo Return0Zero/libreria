@@ -53,6 +53,8 @@ function AdminAutores() {
         <div  className="admin--autores-Cuerpo">
           <AdminCategorias></AdminCategorias>
           <div>
+            
+            <h1>Gestionador de Autores</h1>
             <div className='autores-form'>
               <form className='form--container' onSubmit={manejarSubmitForm}>
                 <div>
@@ -75,7 +77,6 @@ function AdminAutores() {
                   <label>Fecha de Nacimiento</label>
                   <input className='input' type='date' name='fechaDeNacimiento' onChange={manejarCambiosForm} required/>
                 </div>
-                
                 <div>
                   <label>Genero Literario</label>
                   <select name='generoLiterario' required onChange={manejarCambiosForm}>
@@ -109,7 +110,6 @@ function AdminAutores() {
                     <th>{autor.generoLiterario}</th>
                   </tr>
                   )}
-                  
                 </tbody>
               </table>
             </div>

@@ -3,7 +3,6 @@
     padding-top: 3%;
     padding-bottom: 2%;
     font-weight: 500;
-    padding-right: 50%;
     font-size: 30px;
 }
 
@@ -19,7 +18,7 @@
 .lineaDecorativa {
     width: 60%;
     margin-left: 3%;
-    animation: desplazamiento 5s linear 1s  running;
+    animation: desplazamiento 5s linear 1s infinite running;
 }
 
 @keyframes desplazamiento {

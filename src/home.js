@@ -5,7 +5,6 @@ import { Coleccion, Maxlibreria, Header, Navbar, Footer, Recomendados } from './
 
 function Home() {
   
-  
   return (
     <div className="">
       <Navbar></Navbar>
