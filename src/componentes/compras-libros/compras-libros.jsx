@@ -7,7 +7,7 @@ const Compraslibros = () => //Programacion funcional de react en lugar de progra
     return ( //jsx es una extension de react de la sintaxis de lenguaje de javascript, herramienta para estructurar componentes, el return regresa el jsx que termina siendo la version de html de react.
         <div className='componente-compras-libros'>
             <div>
-                  <p>Libros de Compras</p>
+            <h1 className='coleccion-carrito'>Carrito de Compras</h1>
                   <img src={Principito} alt='Foto de libro' className='foto-principito'/>    
             </div> 
         </div>
