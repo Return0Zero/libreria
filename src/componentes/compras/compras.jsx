@@ -1,14 +1,14 @@
 import React from 'react';
 import './compras.css';
-import Compraslibrosuno from '../compras-libros/compras-libros';
-//import Principito from '../../imagenes/libros/el-principito.jpg'
+import ComprasLibros from '../compras-libros/compras-libros'
 
 const Compras = () => 
 {
     return (
-        <div className='Compraslibrosuno'>
+        <div className='componente-compras'>
+            <ComprasLibros></ComprasLibros>
+            <h2>hola</h2>
             
-            <h1>Compras</h1>
         </div>
     )
 }
