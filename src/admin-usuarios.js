@@ -53,7 +53,6 @@ function AdminUsuarios () {
         <div  className="admin--autores-Cuerpo">
           <AdminCategorias></AdminCategorias>
           <div>
-            
             <h1>Gestionador de Autores</h1>
             <div className='autores-form'>
               <form className='form--container' onSubmit={manejarSubmitForm}>
@@ -115,7 +114,6 @@ function AdminUsuarios () {
             </div>
           </div>
         </div>
-        
         <Footer></Footer>
     </div>
   );

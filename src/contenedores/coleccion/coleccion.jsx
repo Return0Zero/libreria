@@ -18,6 +18,7 @@ const Coleccion = () => {
                     </div>
                     <div className='coleccion--libro-contenedor'>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
+                        <Libro NombreLibro="El Principito"></Libro>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
                         <Libro NombreLibro= "Don Quijote de la Mancha"  ></Libro>
